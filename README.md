@@ -15,7 +15,7 @@ This project is created to represent an Online BookStore model using ASP.NET Cor
 
 
 
-Submitted by
-Anish Acharya
-21075396
+Submitted by: <br/>
+Anish Acharya<br/>
+21075396<br/>
 BE computer 6th sem
